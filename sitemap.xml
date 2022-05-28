@@ -21,22 +21,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://yursiv.github.io/IMTDocs/Setup/camera_props/</loc>
+         <lastmod>2022-05-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://yursiv.github.io/IMTDocs/Setup/hotkeys/</loc>
          <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/IMTDocs/Setup/installation/</loc>
-         <lastmod>2022-05-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://yursiv.github.io/IMTDocs/Setup/mesh_props/</loc>
-         <lastmod>2022-05-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://yursiv.github.io/IMTDocs/Setup/object_props/</loc>
          <lastmod>2022-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
